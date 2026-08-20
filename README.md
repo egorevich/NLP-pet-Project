@@ -5,7 +5,7 @@
 ### Среда программирования: 
 Python 
 ### Библиотеки
-sklearn, pandas, numpy, pymorphy3, collections, Transformers, matplotlib,
+sklearn, pandas, numpy, pymorphy3, Transformers, matplotlib,
 ## Данные
 Датасет "Lenta.Ru-News-Dataset" с гитхаб: https://github.com/yutkin/Lenta.Ru-News-Dataset/blob/master/README.md
 количество классов - 23 , 
