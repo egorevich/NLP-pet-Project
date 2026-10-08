@@ -51,7 +51,7 @@ scikit-learn, pandas, numpy, pymorphy3, Transformers, matplotlib, seaborn, jobli
 
 ### Затраченное время
 
-| Этап | Классика (CPU) | BERT (T4) |
+| Этап | Классика | BERT |
 |---|---:|---:|
 | Подбор параметров | 24 мин | ~ 35–40 мин* |
 | Подготовка и обучение | ~ 3.5 мин | ~ 14.6 мин |
