@@ -56,7 +56,7 @@ scikit-learn, pandas, numpy, pymorphy3, Transformers, matplotlib, seaborn, jobli
 
 Еще заметил, что у классики "определяющими" словами в некоторых топиках являются географические места и источники информации, и эти топики являются теми, где классика путается.
 
-<img src="images\classic_opr.png" width="1000">
+<img src="images\classic_opr.png" width="700">
 
 ### Затраченное время
 Время примерное, так как colab не всегда выполняет одни и те же действия за одно время.
